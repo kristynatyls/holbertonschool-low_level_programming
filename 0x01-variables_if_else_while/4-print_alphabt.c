@@ -5,9 +5,8 @@
  * followed by a new line, except q and e
  * Returns: Always 0
  */
-int main(void)
+int main(void){
   
-{
   char ch = 'a';
 
   while (ch <= 'z') {
